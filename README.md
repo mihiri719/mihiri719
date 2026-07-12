@@ -16,5 +16,3 @@
 - ✈️ [Plane Ticket Management System](https://github.com/mihiri719/Plane-Ticket-Management-System) — console-based ticket booking system
 - 📊 [Graph Algorithms](https://github.com/mihiri719/Graph-algorithms) — Java implementations of graph algorithms
 
-## 📈 GitHub Stats
-![Mihiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihiri719&show_icons=true&theme=radical)
